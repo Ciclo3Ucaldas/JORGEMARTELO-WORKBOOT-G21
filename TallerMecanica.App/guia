@@ -1,0 +1,56 @@
+paso 1 crear el proyecto
+mkdir EjemploHospital
+
+paso 2 crear la solucion
+cd EjemploHospital
+dotnet new sln -o HospitalEncasa.App
+
+paso 3 crear el dominio
+cd HospitalEncasa.App
+dotnet new classlib -o HospitalEncasa.App.Dominio
+
+paso 4 agregar el proyecto a la solucion
+cd HospitalEncasa.App
+dotnet sln add ./HospitalEncasa.App.Dominio
+
+paso 5 crear la carpeta entidades y sus entidades.cs
+Persona.cs
+Hogar.cs
+
+paso 6 crear el persistencia
+cd HospitalEncasa.App
+dotnet new classlib -o HospitalEncasa.App.Persistencia -f netstandard2.1
+
+paso 7 agregar el proyecto a la solucion
+cd HospitalEncasa.App
+dotnet sln add ./HospitalEncasa.App.Persistencia
+
+paso 8 crear las carpetas AppRepositorios
+crear el archivo ApplicationContext.cs
+
+paso 9 instalar las herramientas
+dotnet tool install --global dotnet-ef --version 5.0.0
+dotnet tool update --global dotnet-ef --version 5.0.0
+cd HospitalEncasa.App.Persistencia
+dotnet add package Microsoft.EntityFrameworkCore --version 5.0.0
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0.0
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.0
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 5.0.0
+
+paso 10 crear una consola
+cd HospitalEncasa.App
+dotnet new console -o HospitalEncasa.App.Consola
+
+paso 11 agregar proyecto a la solucion
+dotnet sln add .HospitalEncasa.App.Consola
+
+paso 12 instalar la Dependencias
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.0
+
+paso 13 agregar referencia 
+cd HospitalEncasa.App.Consola
+dotnet add reference ../HospitalEncasa.App.Persistencia
+
+paso 14 hacer el update de la base de datos para correr las migraciones
+cd HospitalEncasa.App.Persistencia
+dotnet ef database update --startup-project ../HospitalEncasa.App.Consola
