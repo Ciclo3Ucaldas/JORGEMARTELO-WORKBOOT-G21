@@ -1,0 +1,13 @@
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Persistencia.deps.json
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Persistencia.dll
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Persistencia.pdb
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.csproj.AssemblyReference.cache
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.AssemblyInfoInputs.cache
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.AssemblyInfo.cs
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.csproj.CoreCompileInputs.cache
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.dll
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.pdb
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.dll
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.pdb
+/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.csproj.CopyComplete
