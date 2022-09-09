@@ -53,4 +53,5 @@ dotnet add reference ../HospitalEncasa.App.Persistencia
 
 paso 14 hacer el update de la base de datos para correr las migraciones
 cd HospitalEncasa.App.Persistencia
+dotnet ef migrations add Primero --startup-project ../TallerMecanica.App.Consola/
 dotnet ef database update --startup-project ../HospitalEncasa.App.Consola
