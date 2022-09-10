@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50ZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Clientes/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50ZXMvTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
