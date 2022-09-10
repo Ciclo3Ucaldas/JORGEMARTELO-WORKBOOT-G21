@@ -17,25 +17,43 @@ namespace TallerMintic.App.Consola
         {
             addClienteCosola();
         }
-        private static void addClienteCosola()
+        private static void addCliente()
         {
-            var cliente = new Cliente
-            {
-                Nombre = "Jorge Martelo",
-                Documento = "Cedula",
-                NumeroTelefonico = 32
-            };
-        }
-        private static void deleteClienteCosola()
-        {
-            var cliente = new Cliente
-            {
-                Nombre = "Jorge Martelo",
-                Documento = "Cedula",
-                NumeroTelefonico = 32
-            };
+            addCliente cliente = new Cliente();
+            cliente.Nombre = "Juan marin";
+            cliente.Documento = "Cedula";
+            cliente.NumeroTelefonico = 654;
+            _repositorioCliente.addCliente(cliente);
         }
 
+        private static void deleteCliente(int idCliente)
+        {
+            _repositorioCliente.deleteCliente(idCliente);
+            Console.WriteLine("se Elimino el clitente" + idCliente);
+        }
+
+        private static void updateCliente()
+        {
+
+        }
+        private static void getAllCliente()
+        {
+            var clientes = _repositorioCliente.getAllCliente();
+            foreach(var cliente in clientes){
+                Console.WriteLine("El Nombre es: "+cliente.Nombre);
+                Console.WriteLine("El Documento es: "+cliente.Documento);
+                Console.WriteLine("El Numero telefonico es: "+cliente.NumeroTelefonico);
+                Console.WriteLine("");
+            }
+        }
+        private static void getCliente()
+        {
+            var cliente = _repositorioCliente.getCliente();
+                Console.WriteLine("El Nombre es: "+cliente.Nombre);
+                Console.WriteLine("El Documento es: "+cliente.Documento);
+                Console.WriteLine("El Numero telefonico es: "+cliente.NumeroTelefonico);
+                Console.WriteLine("");
+        }
     }
 
 }
