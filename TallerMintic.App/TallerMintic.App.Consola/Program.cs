@@ -26,6 +26,15 @@ namespace TallerMintic.App.Consola
                 NumeroTelefonico = 32
             };
         }
+        private static void deleteClienteCosola()
+        {
+            var cliente = new Cliente
+            {
+                Nombre = "Jorge Martelo",
+                Documento = "Cedula",
+                NumeroTelefonico = 32
+            };
+        }
 
     }
 
