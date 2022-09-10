@@ -47,20 +47,22 @@ namespace TallerMintic.App.Consola
             var clientes = _repositorioCliente.getAllCliente();
             Console.WriteLine("Lista de todos los clientes");
 
-            foreach(var cliente in clientes){
-                Console.WriteLine("El Nombre es: "+cliente.Nombre);
-                Console.WriteLine("El Documento es: "+cliente.Documento);
-                Console.WriteLine("El Numero telefonico es: "+cliente.NumeroTelefonico);
+            foreach (var cliente in clientes)
+            {
+                Console.WriteLine("El Nombre es: " + cliente.Nombre);
+                Console.WriteLine("El Documento es: " + cliente.Documento);
+                Console.WriteLine("El Numero telefonico es: " + cliente.NumeroTelefonico);
                 Console.WriteLine("");
             }
         }
         private static void getCliente()
         {
             var cliente = _repositorioCliente.getCliente();
-                Console.WriteLine("El Nombre es: "+cliente.Nombre);
-                Console.WriteLine("El Documento es: "+cliente.Documento);
-                Console.WriteLine("El Numero telefonico es: "+cliente.NumeroTelefonico);
-                Console.WriteLine("");
+            Console.WriteLine("Datos del cliente " + cliente.Nombre);
+            Console.WriteLine("El Nombre es: " + cliente.Nombre);
+            Console.WriteLine("El Documento es: " + cliente.Documento);
+            Console.WriteLine("El Numero telefonico es: " + cliente.NumeroTelefonico);
+            Console.WriteLine("");
         }
     }
 
