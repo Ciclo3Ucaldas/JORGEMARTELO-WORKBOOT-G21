@@ -26,6 +26,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj": {
+                "projectPath": "/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj"
+              },
               "/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj": {
                 "projectPath": "/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj"
               }

@@ -6035,6 +6035,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
+      "TallerMintic.App.Dominio >= 1.0.0",
       "TallerMintic.App.Persistencia >= 1.0.0"
     ]
   },
@@ -6063,6 +6064,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj": {
+              "projectPath": "/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj"
+            },
             "/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj": {
               "projectPath": "/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj"
             }

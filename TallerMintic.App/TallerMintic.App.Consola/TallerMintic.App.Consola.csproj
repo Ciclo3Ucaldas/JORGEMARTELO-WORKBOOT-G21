@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TallerMintic.App.Persistencia\TallerMintic.App.Persistencia.csproj" />
+    <ProjectReference Include="..\TallerMintic.App.Dominio\TallerMintic.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

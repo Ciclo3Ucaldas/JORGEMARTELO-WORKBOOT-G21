@@ -6,8 +6,8 @@ namespace TallerMintic.App.Persistencia.AppRepositorios
 {
     public class ApplicationContext : DbContext
     {
+        private const string conexion = @"Data Source=localhost;Initial Catalog=BbTallerMintic; Integrated Security=True;";
 
-        private const string conexion = @"Data Source=localhost\sqlexpress;Initial Catalog=BbTallerMintic; Integrated Security=True;";
         public DbSet<Cliente> Clientes { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
