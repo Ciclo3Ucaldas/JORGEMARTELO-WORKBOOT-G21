@@ -15,20 +15,23 @@ namespace TallerMintic.App.Consola
 
         public static void Main(string[] args)
         {
-            addClienteCosola();
+            Console.WriteLine("Ejecutando");
+            updateCliente();
+
         }
         private static void addCliente()
         {
             Cliente cliente = new Cliente();
             cliente.Nombre = "Juan marin";
             cliente.Documento = "Cedula";
-            cliente.NumeroTelefonico = 654;
-            _repositorioCliente.addCliente(cliente);
+            cliente.NumeroTelefonico = 6547;
+            _repositorioCliente.AddCliente(cliente);
+        Console.WriteLine("se creo un usuario ");
         }
 
         private static void deleteCliente(int idCliente)
         {
-            _repositorioCliente.deleteCliente(idCliente);
+            _repositorioCliente.DeleteCliente(idCliente);
             Console.WriteLine("se Elimino el clitente" + idCliente);
         }
 
@@ -38,13 +41,15 @@ namespace TallerMintic.App.Consola
             cliente.Nombre = "Juan marin";
             cliente.Documento = "Cedula";
             cliente.NumeroTelefonico = 654;
-            _repositorioCliente.updateCliente(cliente);
+            _repositorioCliente.UpdateCliente(cliente);
             Console.WriteLine("se Actualizo correctamente el clitente");
 
         }
         private static void getAllCliente()
         {
-            var clientes = _repositorioCliente.getAllCliente();
+
+            //mensajes
+            var clientes = _repositorioCliente.GetAllClientes();
             Console.WriteLine("Lista de todos los clientes");
 
             foreach (var cliente in clientes)
@@ -55,9 +60,9 @@ namespace TallerMintic.App.Consola
                 Console.WriteLine("");
             }
         }
-        private static void getCliente()
+        private static void getCliente(int idCliente)
         {
-            var cliente = _repositorioCliente.getCliente();
+            var cliente = _repositorioCliente.GetCliente(idCliente);
             Console.WriteLine("Datos del cliente " + cliente.Nombre);
             Console.WriteLine("El Nombre es: " + cliente.Nombre);
             Console.WriteLine("El Documento es: " + cliente.Documento);
