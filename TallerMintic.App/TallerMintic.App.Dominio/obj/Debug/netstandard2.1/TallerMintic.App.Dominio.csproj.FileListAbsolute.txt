@@ -8,16 +8,6 @@
 /home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.csproj.CoreCompileInputs.cache
 /home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.dll
 /home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.pdb
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.deps.json
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.dll
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.pdb
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.csproj.AssemblyReference.cache
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.AssemblyInfoInputs.cache
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.AssemblyInfo.cs
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.csproj.CoreCompileInputs.cache
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.dll
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.pdb
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.deps.json
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.dll
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.pdb
@@ -28,3 +18,13 @@ C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.csproj.CoreCompileInputs.cache
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.dll
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/Debug/netstandard2.1/TallerMintic.App.Dominio.pdb
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\bin\Debug\netstandard2.1\TallerMintic.App.Dominio.deps.json
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\bin\Debug\netstandard2.1\TallerMintic.App.Dominio.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\bin\Debug\netstandard2.1\TallerMintic.App.Dominio.pdb
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\obj\Debug\netstandard2.1\TallerMintic.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\obj\Debug\netstandard2.1\TallerMintic.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\obj\Debug\netstandard2.1\TallerMintic.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\obj\Debug\netstandard2.1\TallerMintic.App.Dominio.AssemblyInfo.cs
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\obj\Debug\netstandard2.1\TallerMintic.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\obj\Debug\netstandard2.1\TallerMintic.App.Dominio.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Dominio\obj\Debug\netstandard2.1\TallerMintic.App.Dominio.pdb

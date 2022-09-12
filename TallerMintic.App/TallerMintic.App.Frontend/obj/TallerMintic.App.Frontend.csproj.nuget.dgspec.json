@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/TallerMintic.App.Frontend.csproj": {}
+    "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Frontend\\TallerMintic.App.Frontend.csproj": {}
   },
   "projects": {
-    "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj": {
+    "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Dominio\\TallerMintic.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Dominio\\TallerMintic.App.Dominio.csproj",
         "projectName": "TallerMintic.App.Dominio",
-        "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj",
-        "packagesPath": "/home/jorge/.nuget/packages/",
-        "outputPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/obj/",
+        "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Dominio\\TallerMintic.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jorge/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -53,21 +53,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/TallerMintic.App.Frontend.csproj": {
+    "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Frontend\\TallerMintic.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/TallerMintic.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Frontend\\TallerMintic.App.Frontend.csproj",
         "projectName": "TallerMintic.App.Frontend",
-        "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/TallerMintic.App.Frontend.csproj",
-        "packagesPath": "/home/jorge/.nuget/packages/",
-        "outputPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/obj/",
+        "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Frontend\\TallerMintic.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jorge/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -79,11 +79,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj": {
-                "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj"
+              "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Dominio\\TallerMintic.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Dominio\\TallerMintic.App.Dominio.csproj"
               },
-              "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj": {
-                "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj"
+              "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Persistencia\\TallerMintic.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Persistencia\\TallerMintic.App.Persistencia.csproj"
               }
             }
           }
@@ -124,21 +124,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj": {
+    "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Persistencia\\TallerMintic.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Persistencia\\TallerMintic.App.Persistencia.csproj",
         "projectName": "TallerMintic.App.Persistencia",
-        "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/TallerMintic.App.Persistencia.csproj",
-        "packagesPath": "/home/jorge/.nuget/packages/",
-        "outputPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/",
+        "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Persistencia\\TallerMintic.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jorge/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -150,8 +150,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj": {
-                "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Dominio/TallerMintic.App.Dominio.csproj"
+              "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Dominio\\TallerMintic.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\TallerMintic.App\\TallerMintic.App.Dominio\\TallerMintic.App.Dominio.csproj"
               }
             }
           }
@@ -203,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
