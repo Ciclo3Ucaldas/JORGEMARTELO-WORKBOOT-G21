@@ -1,7 +1,14 @@
+using Microsoft.EntityFrameworCore;
+using TallerMintic.App.Persistencia.AppRepositorios;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-    builder.Services.AddRazorPages();
+builder.Services.AddRazorPages();
+builder.Services.AddSingleton<IRepositorioCliente, RepositorioCliente>();
+//builder.Services.AddScoped<IRepositorioCliente, RepositorioCliente>();
+builder.Services.AddDbContext<ApplicationContext>(options => 
+options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 

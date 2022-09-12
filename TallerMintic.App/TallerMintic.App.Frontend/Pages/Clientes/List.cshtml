@@ -3,15 +3,22 @@
 @{
 }
 <h1>Lista de clientes<h1>
-    @foreach (var cliente in Model.clientes){
         <table class="table table-light">
             <tbody>
                 <tr>
-                    <td>Nombre</td>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Cedula</th>
+                    <th>Numero Telefonico</th>
                 </tr>
-                <th>
-                    <td></td>
-                </th>
+                @foreach(var dato in Model.clientes){
+                    <tr>
+                        <td>dato.Id</td>  
+                        <td>dato.Nombre</td>   
+                        <td>dato.Documento</td>
+                        <td>dato.NumeroTelefonico</td>
+                    </tr>        
+                }
             </tbody>
         </table>
-    }
+    
