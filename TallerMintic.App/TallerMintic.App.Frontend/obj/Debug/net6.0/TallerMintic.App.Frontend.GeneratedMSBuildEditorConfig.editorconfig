@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TallerMintic.App.Frontend
 build_property.RootNamespace = TallerMintic.App.Frontend
-build_property.ProjectDir = /home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/
+build_property.ProjectDir = /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend
+build_property.MSBuildProjectDirectory = /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Clientes/Create.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50ZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Clientes/List.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/Clientes/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50ZXMvTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Error.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Index.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Privacy.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/_ViewImports.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/_ViewStart.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jorge/Descargas/RetoCiclo3/TallerMintic.App/TallerMintic.App.Frontend/Pages/Shared/_Layout.cshtml]
+[/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-veiqf57lo5
