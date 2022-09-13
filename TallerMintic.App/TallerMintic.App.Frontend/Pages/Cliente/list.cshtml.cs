@@ -2,34 +2,23 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using TallerMintic.App.Persistencia.AppRepositorios;
 using TallerMintic.App.Dominio.Entidades;
+
 namespace MyApp.Namespace
 {
     public class listModel : PageModel
     {
-        private readonly ApplicationContext _contexto;
-        public IEnumerable<Cliente> clientes { get; set; }
-
-        public listModel(ApplicationContext application)
+        private readonly IRepositorioCliente _repo;
+        public IEnumerable<Cliente> Clientes { get; set; }
+        public listModel(IRepositorioCliente repositorio)
         {
-            _contexto = application;
+            _repo = repositorio;
         }
         public void OnGet()
         {
-//            clientes = _contexto.GetAllClientes();
+          Clientes=  _repo.GetAllClientes();
+          foreach(var datos in Clientes){
+            Console.WriteLine(datos.Nombre);
+          }
         }
-
-
-        /*    private readonly IRepositorioCliente _repo;
-                public IEnumerable<Clientes> clientes { get; set; }
-            public listModel(IRepositorioCliente repositorio)
-            {
-                _repo = repositorio;
-            }
-            public void OnGet()
-            {
-
-                clientes = _repo.Get
-            }
-       */
     }
 }
