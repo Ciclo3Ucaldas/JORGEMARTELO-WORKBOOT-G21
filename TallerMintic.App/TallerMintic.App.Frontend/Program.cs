@@ -14,16 +14,13 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuracion para conectarse a la base de datosDBContextOptions
-builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(
-    builder.Configuration.GetConnectionString("ConexionSQLLocalDB")));
-
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IRepositorioCliente, RepositorioCliente>();
 
-builder.AddDbContext<ApplicationContext>(options =>
-    options.UseSqlServer(Configuration.GetConnectionString("ConexionSQLLocalDB")));
+// Configuracion para conectarse a la base de datosDBContextOptions
+builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("ConexionSQLLocalDB")));
 
 
 var app = builder.Build();
