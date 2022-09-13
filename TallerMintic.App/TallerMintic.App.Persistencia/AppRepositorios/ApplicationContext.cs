@@ -6,7 +6,12 @@ namespace TallerMintic.App.Persistencia.AppRepositorios
 {
     public class ApplicationContext : DbContext
     {
-        private const string connectionString = @"Data Source=localhost;Initial Catalog=BbTallerMintic; Integrated Security=True;";
+        public ApplicationContext(DbContextOptions<ApplicationContext> options):base(options)
+        {
+        }
+        public DbSet<Cliente> Clientes { get; set; }
+        
+        /*private const string connectionString = @"Data Source=localhost;Initial Catalog=BbTallerMintic; Integrated Security=True;";
 
         public DbSet<Cliente> Clientes { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -17,6 +22,7 @@ namespace TallerMintic.App.Persistencia.AppRepositorios
                 optionsBuilder.UseSqlServer(connectionString);
             }
         }
+        */
     }
 
 }
