@@ -15,3 +15,20 @@
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Persistencia/obj/Debug/net6.0/ContosoUniversity.Persistencia.pdb
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Persistencia/obj/Debug/net6.0/ContosoUniversity.Persistencia.genruntimeconfig.cache
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Persistencia/obj/Debug/net6.0/ref/ContosoUniversity.Persistencia.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\bin\Debug\net6.0\ContosoUniversity.Persistencia.deps.json
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\bin\Debug\net6.0\ContosoUniversity.Persistencia.runtimeconfig.json
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\bin\Debug\net6.0\ContosoUniversity.Persistencia.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\bin\Debug\net6.0\ContosoUniversity.Persistencia.pdb
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\bin\Debug\net6.0\ContosoUniversity.Dominio.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\bin\Debug\net6.0\ContosoUniversity.Dominio.pdb
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.AssemblyInfo.cs
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.csproj.CopyComplete
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\refint\ContosoUniversity.Persistencia.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.pdb
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ContosoUniversity.Persistencia.genruntimeconfig.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.Persistencia\obj\Debug\net6.0\ref\ContosoUniversity.Persistencia.dll
