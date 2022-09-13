@@ -1,0 +1,135 @@
+Conectarse a github
+
+git config --global user.name "jorgePrograma"
+git config --global user.email jemartelo07@gmail.com
+
+-----------------------------------------------------------
+
+Realizacion de la arquitectura
+Aplicacion	sln .net solucion
+Presentacion 	csproject razor para crear paginas web dinamicas
+Dominio 	csproject classlib
+Persistencia	csproject classlib
+Servicios	csproject webapi
+
+-----------------------------------------------------------
+paso 1 crear la carpeta con el NombreProyecto
+mkdir EjemploSln
+
+paso 2 crear la arquitectura en la carpeta NombreProyecto
+	cd EjemploSln
+	dotnet new sln -o EjemploSln
+	
+paso 3 crear los proyectos de dominio, persistencia, servicios
+	cd EjemploSln
+	dotnet new classlib -o EjemploSln.Persistencia
+	dotnet new classlib -o EjemploSln.Dominio
+	dotnet new webapi -o EjemploSln.Servicios
+
+- para ver la arquitectura 
+	tree
+
+paso 4 agregar los proyectos a la solucion, 
+- se debe estar en la carpeta EjemploSln
+	dotnet sln add EjemploSln.Nombre
+	
+paso 5 agregar las entidades a la capa dominio
+----------------------------------------------------------
+Estructura que debe tener los archivos de las entidades
+using System;
+namespace EjemploSln.Dominio{
+	public class NombreClase{
+		public int Id{get;set;}
+		public string Nombre{get;set;}
+		public NombreClase Atributo{get;set;}
+	}
+}
+
+
+Estructura con Herencia
+using System;
+namespace EjemploSln.Dominio{
+	public class NombreClase:NombreHereda{
+		
+	}
+}
+
+Estructura con Asociacion
+using System;
+namespace EjemploSln.Dominio{
+	public class Paciente{
+		public Familiar Familiar{get;set;}
+	}
+}
+
+----------------------------------------------------------
+
+posicionarse en la carpeta de EjemploSln.Dominio
+crear una carpeta con el nombre Entidades
+crear los archivos de las entidades
+	Entidad.cs
+
+
+------------- Capa persistencia -------------
+paso 6 instalar dotnet-ef si no lo tiene instalado en su proyecto
+posicionarse en la carpeta EjemploSln
+
+dotnet tool install --global dotnet-ef
+dotnet tool update --global dotnet-ef
+
+
+
+paso 7 instalar las siguiente dependencias en el proyecto que se va a utilizar
+posicionarse en la carpeta EjemploSln.Persistencia
+dotnet add package Microsoft.EntityFrameworkcore --version 5.0
+dotnet add package Microsoft.EntityFrameworkcore.Tools --version 5.0
+dotnet add package Microsoft.EntityFrameworkcore.Design --version 5.0
+dotnet add package Microsoft.EntityFrameworkcore.SqlServer --version 5.0
+
+paso 8 crear dos carpetas dentro de Peristencia con el nombre 
+AppRepositorios, AppData
+paso 9 crear un archivo en la carpeta AppRespositorios
+AppContext.cs
+
+estructura
+using Microsoft.EntityFrameworkCore;
+namespace EjemploSln.Persistencia{
+	public class AppContext:DbContext{
+		public DbSet<Entidad> Entidades{get;set;}
+		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
+		optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=NombreBd");
+		}
+	}
+}
+
+paso 10 adicionar la carpeta dominio
+dotnet add reference ../EjempĺoSln.Dominio
+
+posicionarse en la carpeta EjemploSln
+dotnet new console -o EjemploSln.Consola
+
+posicionarse en la carpeta EjemploSln.Consola
+dotnet add package Microsoft.EntityFrameworkcore.Design --version 5.0
+dotnet add reference ../EjempĺoSln.Persistencia
+
+agregar al archivo
+using EjemploSln.Dominio;
+
+paso 11 Hacer el mapeo 
+posicionarse en la carpeta Persistencia
+dotner ef migrations add Nombre --startup-project ../EjemploSln.Consola
+
+
+paso 12 general la base de datos con la migracion
+dotnet ef database update --startup-project ../EjemploSln.Consola
+
+----------------------- manejo de la base de datos ----------------
+context.Clase.add(); // agregar uno
+context.Clase.AddRange(); // agregar Varios
+context.Clases; // para ver todos
+context.FirstOrDefault(condicion); // ver uno solo
+context.Clases.where(p=>p.Dato=="buscarDato").ToList();
+
+context.SaveChanges();// este siempre va para hacerle la modifiacion a la bd
+
+
