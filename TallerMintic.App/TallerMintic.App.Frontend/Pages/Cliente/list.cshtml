@@ -2,10 +2,17 @@
 @model MyApp.Namespace.listModel
 @{
 }
-<p>bien</p>
+<p>Lista de clientes</p>
 <table>
     <tr>
-    <td>Id</td>
-    <td>Noe</td>
+        <th>Id</th>
+        <th>Nombre</th>
     </tr>
+    @foreach (var cliente in Model.Clientes )
+    {
+        <tr>
+            <td>@cliente.Nombre</td>
+            <td>@cliente.NumeroTelefonico</td>
+        </tr>
+    }
 </table>

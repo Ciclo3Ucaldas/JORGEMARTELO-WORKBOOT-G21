@@ -9,7 +9,6 @@
       "TallerMintic.App.Frontend/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "TallerMintic.App.Dominio": "1.0.0",
           "TallerMintic.App.Persistencia": "1.0.0"
         },

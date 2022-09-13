@@ -9,7 +9,7 @@ namespace TallerMintic.App.Persistencia.AppRepositorios
 {
     public interface IRepositorioCliente
     {
-        List<Cliente> GetAllClientes();
+        IEnumerable<Cliente> GetAllCliente();
         Cliente AddCliente(Cliente cliente);
         Cliente UpdateCliente(Cliente cliente);
         void DeleteCliente(int idCliente);

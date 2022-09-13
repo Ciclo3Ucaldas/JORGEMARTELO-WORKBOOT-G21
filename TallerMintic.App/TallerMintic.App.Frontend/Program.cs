@@ -16,16 +16,12 @@ builder.Services.AddScoped<IRepositorioCliente, RepositorioCliente>();
 builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("ConexionSQLLocalDB")));
 
-<<<<<<< HEAD
-=======
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IRepositorioCliente, RepositorioCliente>();
 
 builder.Services.AddDbContext<ApplicationContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ConexionSQLLocalDB")));
-
->>>>>>> 932f1e4edbfeee160b88ba783bc582cd4fd2a865
 
 var app = builder.Build();
 
