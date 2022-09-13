@@ -2,12 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using TallerMintic.App.Persistencia.AppRepositorios;
 using Microsoft.EntityFrameworkCore;
 
@@ -22,6 +16,16 @@ builder.Services.AddScoped<IRepositorioCliente, RepositorioCliente>();
 builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("ConexionSQLLocalDB")));
 
+<<<<<<< HEAD
+=======
+// Add services to the container.
+builder.Services.AddRazorPages();
+builder.Services.AddScoped<IRepositorioCliente, RepositorioCliente>();
+
+builder.Services.AddDbContext<ApplicationContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConexionSQLLocalDB")));
+
+>>>>>>> 932f1e4edbfeee160b88ba783bc582cd4fd2a865
 
 var app = builder.Build();
 

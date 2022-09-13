@@ -67,6 +67,7 @@
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/obj/Debug/net6.0/TallerMintic.App.Frontend.pdb
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/obj/Debug/net6.0/TallerMintic.App.Frontend.genruntimeconfig.cache
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Frontend/obj/Debug/net6.0/ref/TallerMintic.App.Frontend.dll
+<<<<<<< HEAD
 C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Frontend\obj\Debug\net6.0\TallerMintic.App.Frontend.csproj.AssemblyReference.cache
 C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Frontend\obj\Debug\net6.0\TallerMintic.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Frontend\obj\Debug\net6.0\TallerMintic.App.Frontend.AssemblyInfoInputs.cache
@@ -136,3 +137,5 @@ C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.
 C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Frontend\obj\Debug\net6.0\TallerMintic.App.Frontend.csproj.CopyComplete
 C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Frontend\obj\Debug\net6.0\TallerMintic.App.Frontend.genruntimeconfig.cache
 C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Frontend\obj\Debug\net6.0\ref\TallerMintic.App.Frontend.dll
+=======
+>>>>>>> 932f1e4edbfeee160b88ba783bc582cd4fd2a865
