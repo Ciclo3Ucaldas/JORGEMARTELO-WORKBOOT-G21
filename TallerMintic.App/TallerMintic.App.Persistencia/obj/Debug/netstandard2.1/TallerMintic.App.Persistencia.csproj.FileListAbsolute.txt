@@ -24,16 +24,16 @@
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.csproj.CopyComplete
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.dll
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.pdb
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.csproj.AssemblyReference.cache
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.AssemblyInfoInputs.cache
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.AssemblyInfo.cs
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.csproj.CoreCompileInputs.cache
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.dll
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.pdb
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Persistencia.deps.json
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Persistencia.dll
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Persistencia.pdb
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.dll
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/bin/Debug/netstandard2.1/TallerMintic.App.Dominio.pdb
-C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/TallerMintic.App/TallerMintic.App.Persistencia/obj/Debug/netstandard2.1/TallerMintic.App.Persistencia.csproj.CopyComplete
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\bin\Debug\netstandard2.1\TallerMintic.App.Persistencia.deps.json
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\bin\Debug\netstandard2.1\TallerMintic.App.Persistencia.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\bin\Debug\netstandard2.1\TallerMintic.App.Persistencia.pdb
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\bin\Debug\netstandard2.1\TallerMintic.App.Dominio.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\bin\Debug\netstandard2.1\TallerMintic.App.Dominio.pdb
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\obj\Debug\netstandard2.1\TallerMintic.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\obj\Debug\netstandard2.1\TallerMintic.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\obj\Debug\netstandard2.1\TallerMintic.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\obj\Debug\netstandard2.1\TallerMintic.App.Persistencia.AssemblyInfo.cs
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\obj\Debug\netstandard2.1\TallerMintic.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\obj\Debug\netstandard2.1\TallerMintic.App.Persistencia.csproj.CopyComplete
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\obj\Debug\netstandard2.1\TallerMintic.App.Persistencia.dll
+C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\TallerMintic.App\TallerMintic.App.Persistencia\obj\Debug\netstandard2.1\TallerMintic.App.Persistencia.pdb
