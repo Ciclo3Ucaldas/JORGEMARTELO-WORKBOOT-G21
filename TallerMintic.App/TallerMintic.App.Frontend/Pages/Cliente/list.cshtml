@@ -2,3 +2,11 @@
 @model MyApp.Namespace.listModel
 @{
 }
+<h1>Lista de clientes</h1>
+<table>
+    @foreach(var cliente in Model.Clientes){
+            <tr>
+                <td>@cliente.Nombre</td>
+            </tr>
+    }
+</table>

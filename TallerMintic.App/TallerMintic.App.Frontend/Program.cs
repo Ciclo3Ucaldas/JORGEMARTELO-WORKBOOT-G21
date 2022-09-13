@@ -21,10 +21,10 @@ builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServe
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IRepositorioCliente, RepositorioCliente>();
-
+/*
 builder.AddDbContext<ApplicationContext>(options =>
     options.UseSqlServer(Configuration.GetConnectionString("ConexionSQLLocalDB")));
-
+*/
 
 var app = builder.Build();
 

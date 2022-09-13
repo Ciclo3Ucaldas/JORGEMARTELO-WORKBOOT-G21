@@ -16,9 +16,6 @@ namespace MyApp.Namespace
         public void OnGet()
         {
           Clientes=  _repo.GetAllClientes();
-          foreach(var datos in Clientes){
-            Console.WriteLine(datos.Nombre);
-          }
         }
     }
 }
