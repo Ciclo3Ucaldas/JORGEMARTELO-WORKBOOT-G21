@@ -1,4 +1,11 @@
 ﻿@page
-@model MyApp.Namespace.IndexModel
+@model IEnumerable<ContosoUniversity.Dominio.Models.Student>
 @{
+    ViewData["Title"] = "List student";
 }
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
