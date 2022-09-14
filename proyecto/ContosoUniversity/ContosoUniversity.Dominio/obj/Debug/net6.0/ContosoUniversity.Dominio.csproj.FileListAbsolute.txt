@@ -1,0 +1,12 @@
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/ContosoUniversity.Dominio.csproj.AssemblyReference.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/ContosoUniversity.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/ContosoUniversity.Dominio.AssemblyInfoInputs.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/ContosoUniversity.Dominio.AssemblyInfo.cs
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/ContosoUniversity.Dominio.csproj.CoreCompileInputs.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/bin/Debug/net6.0/ContosoUniversity.Dominio.deps.json
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/bin/Debug/net6.0/ContosoUniversity.Dominio.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/bin/Debug/net6.0/ContosoUniversity.Dominio.pdb
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/ContosoUniversity.Dominio.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/refint/ContosoUniversity.Dominio.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/ContosoUniversity.Dominio.pdb
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/obj/Debug/net6.0/ref/ContosoUniversity.Dominio.dll

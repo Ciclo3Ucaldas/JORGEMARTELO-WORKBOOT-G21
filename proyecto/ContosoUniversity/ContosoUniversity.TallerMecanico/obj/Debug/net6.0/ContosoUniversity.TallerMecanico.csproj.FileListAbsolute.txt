@@ -1,0 +1,8 @@
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.csproj.AssemblyReference.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.AssemblyInfoInputs.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.AssemblyInfo.cs
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.csproj.CoreCompileInputs.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.MvcApplicationPartsAssemblyInfo.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.RazorAssemblyInfo.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.RazorAssemblyInfo.cs
