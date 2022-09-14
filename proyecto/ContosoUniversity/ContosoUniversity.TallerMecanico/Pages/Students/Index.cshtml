@@ -10,3 +10,21 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Fecha</th>
+    </tr>
+    
+        @foreach (var estudiante in Model.students)
+        {
+    <tr>
+        <td>@estudiante.ID</td>
+        <td>@estudiante.LasName</td>
+        <td>@estudiante.FirstMidName</td>
+        <td>@estudiante.EnrollmentDate</td>
+        
+    </tr>}
+</table>

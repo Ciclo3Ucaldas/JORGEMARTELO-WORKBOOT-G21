@@ -19,12 +19,20 @@ namespace MyApp.Namespace
         public void OnGet()
         {
             students = _repositorio.GetStudents();
-            foreach (var studiantes in students)
+            Console.WriteLine("Lista de estudiantes");
+            if (students != null)
             {
-                Console.WriteLine("Agregando datos"+studiantes.LasName);                
+                foreach (var studiantes in students)
+                {
+
+                    Console.WriteLine("Nombre" + studiantes.LasName);
+                    Console.WriteLine("Apellido" + studiantes.FirstMidName);
+                    Console.WriteLine("Nombre" + studiantes.EnrollmentDate);
+
+                }
+
             }
-                Console.WriteLine("Agregando datos");
-                Console.WriteLine("Agregando datos");
+            Console.WriteLine("Agregando datos");
         }
     }
 }
