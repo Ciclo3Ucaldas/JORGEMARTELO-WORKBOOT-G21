@@ -8,11 +8,12 @@ using ContosoUniversity.Dominio.Models;
 
 namespace ContosoUniversity.Persistencia.Data
 {
-    public class SchoolContext:DbContext
+    public class SchoolContext : DbContext
     {
-        public SchoolContext(DbContextOptions<SchoolContext> options):base(options){
+        public SchoolContext(DbContextOptions<SchoolContext> options) : base(options)
+        {
         }
-         public DbSet<Student> Students { get; set; }
+        public DbSet<Student> Students { get; set; }
         public DbSet<Enrollment> Enrollments { get; set; }
         public DbSet<Course> Courses { get; set; }
 
