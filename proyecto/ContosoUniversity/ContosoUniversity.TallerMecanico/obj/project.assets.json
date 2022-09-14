@@ -2011,19 +2011,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\windows\\.nuget\\packages\\": {}
+    "/home/jorge/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\proyecto\\ContosoUniversity\\ContosoUniversity.TallerMecanico\\ContosoUniversity.TallerMecanico.csproj",
+      "projectUniqueName": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/ContosoUniversity.TallerMecanico.csproj",
       "projectName": "ContosoUniversity.TallerMecanico",
-      "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\proyecto\\ContosoUniversity\\ContosoUniversity.TallerMecanico\\ContosoUniversity.TallerMecanico.csproj",
-      "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\proyecto\\ContosoUniversity\\ContosoUniversity.TallerMecanico\\obj\\",
+      "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/ContosoUniversity.TallerMecanico.csproj",
+      "packagesPath": "/home/jorge/.nuget/packages/",
+      "outputPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/jorge/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2035,11 +2035,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\proyecto\\ContosoUniversity\\ContosoUniversity.Dominio\\ContosoUniversity.Dominio.csproj": {
-              "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\proyecto\\ContosoUniversity\\ContosoUniversity.Dominio\\ContosoUniversity.Dominio.csproj"
+            "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/ContosoUniversity.Dominio.csproj": {
+              "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Dominio/ContosoUniversity.Dominio.csproj"
             },
-            "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\proyecto\\ContosoUniversity\\ContosoUniversity.Persistencia\\ContosoUniversity.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\windows\\Documents\\mis proyectos\\JORGEMARTELO-WORKBOOT-G21\\proyecto\\ContosoUniversity\\ContosoUniversity.Persistencia\\ContosoUniversity.Persistencia.csproj"
+            "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Persistencia/ContosoUniversity.Persistencia.csproj": {
+              "projectPath": "/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.Persistencia/ContosoUniversity.Persistencia.csproj"
             }
           }
         }
@@ -2080,7 +2080,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

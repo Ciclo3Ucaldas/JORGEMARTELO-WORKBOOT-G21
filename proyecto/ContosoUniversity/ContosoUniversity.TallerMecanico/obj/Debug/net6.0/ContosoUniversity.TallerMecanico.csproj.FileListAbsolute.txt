@@ -6,11 +6,68 @@
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.MvcApplicationPartsAssemblyInfo.cache
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.RazorAssemblyInfo.cache
 /home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.RazorAssemblyInfo.cs
-C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.TallerMecanico\obj\Debug\net6.0\ContosoUniversity.TallerMecanico.csproj.AssemblyReference.cache
-C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.TallerMecanico\obj\Debug\net6.0\ContosoUniversity.TallerMecanico.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.TallerMecanico\obj\Debug\net6.0\ContosoUniversity.TallerMecanico.AssemblyInfoInputs.cache
-C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.TallerMecanico\obj\Debug\net6.0\ContosoUniversity.TallerMecanico.AssemblyInfo.cs
-C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.TallerMecanico\obj\Debug\net6.0\ContosoUniversity.TallerMecanico.csproj.CoreCompileInputs.cache
-C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.TallerMecanico\obj\Debug\net6.0\ContosoUniversity.TallerMecanico.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.TallerMecanico\obj\Debug\net6.0\ContosoUniversity.TallerMecanico.RazorAssemblyInfo.cache
-C:\Users\windows\Documents\mis proyectos\JORGEMARTELO-WORKBOOT-G21\proyecto\ContosoUniversity\ContosoUniversity.TallerMecanico\obj\Debug\net6.0\ContosoUniversity.TallerMecanico.RazorAssemblyInfo.cs
+C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.csproj.AssemblyReference.cache
+C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.AssemblyInfoInputs.cache
+C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.AssemblyInfo.cs
+C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.csproj.CoreCompileInputs.cache
+C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.RazorAssemblyInfo.cache
+C:/Users/windows/Documents/mis proyectos/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.RazorAssemblyInfo.cs
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/appsettings.Development.json
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/appsettings.json
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.TallerMecanico.staticwebassets.runtime.json
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.TallerMecanico
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.TallerMecanico.deps.json
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.TallerMecanico.runtimeconfig.json
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.TallerMecanico.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.TallerMecanico.pdb
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Humanizer.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.Dominio.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.Persistencia.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.Dominio.pdb
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/bin/Debug/net6.0/ContosoUniversity.Persistencia.pdb
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/staticwebassets.build.json
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/staticwebassets.development.json
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/scopedcss/bundle/ContosoUniversity.TallerMecanico.styles.css
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/scopedcss/projectbundle/ContosoUniversity.TallerMecanico.bundle.scp.css
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.csproj.CopyComplete
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/refint/ContosoUniversity.TallerMecanico.dll
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.pdb
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ContosoUniversity.TallerMecanico.genruntimeconfig.cache
+/home/jorge/Escritorio/proyecto/JORGEMARTELO-WORKBOOT-G21/proyecto/ContosoUniversity/ContosoUniversity.TallerMecanico/obj/Debug/net6.0/ref/ContosoUniversity.TallerMecanico.dll

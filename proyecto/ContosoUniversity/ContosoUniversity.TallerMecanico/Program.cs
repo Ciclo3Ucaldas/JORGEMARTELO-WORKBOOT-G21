@@ -8,7 +8,7 @@ builder.Services.AddDbContext<SchoolContext>(options =>
   options.UseSqlServer(builder.Configuration.GetConnectionString("SchoolContext")));
 
 // agregado opcional para los errores de la base de datos
-builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+//builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 var app = builder.Build();
 
@@ -20,21 +20,21 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 // agregado opcional para las migraciones
-else
+/*else
 {
     app.UseDeveloperExceptionPage();
     app.UseMigrationsEndPoint();
 }
 // este crea una base de datos y elimina una base de datos existente
-using (var scope = app.Services.CreateScope())
+/*using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
 
     var context = services.GetRequiredService<SchoolContext>();
     context.Database.EnsureCreated();
-    DbInitializer.Initialize(context);
+    //DbInitializer.Initialize(context);
 }
-
+*/
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
