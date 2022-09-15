@@ -2,3 +2,29 @@
 @model MyApp.Namespace.DeleteModel
 @{
 }
+<h4>¿Estas seguro que se desea eliminar este registro ?</h4>
+<div>
+    <hr>
+    <br>
+    <div class="row">
+        <div class="col-md-2">
+            @Html.DisplayNameFor(m => m.Student.LasName);
+            @Html.DisplayFor(m=>m.Student.LasName);
+        </div>
+        
+        <div class="col-md-2">
+            @Html.DisplayNameFor(m => m.Student.FirstMidName);
+            @Html.DisplayFor(m=>m.Student.FirstMidName);
+        </div>
+        <div class="col-md-2">
+            @Html.DisplayNameFor(m => m.Student.EnrollmentDate);
+            @Html.DisplayFor(m=>m.Student.EnrollmentDate);
+        </div>
+        <br>
+        <form method="post">
+            <input type="hidden" asp-for="Student.ID">
+            <input type="submit" value="eliminar" asp-page="Student/Delete/OnPost">
+         </form>
+        
+    </div>
+</div>

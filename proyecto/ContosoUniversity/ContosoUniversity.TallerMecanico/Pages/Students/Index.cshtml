@@ -25,6 +25,10 @@
         <td>@estudiante.LasName</td>
         <td>@estudiante.FirstMidName</td>
         <td>@estudiante.EnrollmentDate</td>
-        
+         <td>
+                <a asp-action="Student/Edit" asp-route-id="@estudiante.ID">Edit</a> |
+                <a asp-action="Student/Details" asp-route-id="@estudiante.ID">Details</a> |
+                <a asp-action="Student/Delete" asp-route-id="@estudiante.ID">Delete</a>
+            </td>
     </tr>}
 </table>

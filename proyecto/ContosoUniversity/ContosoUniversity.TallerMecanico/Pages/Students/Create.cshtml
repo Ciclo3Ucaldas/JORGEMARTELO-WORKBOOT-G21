@@ -2,4 +2,20 @@
 @model MyApp.Namespace.CreateModel
 @{
 }
-<p>kskkd</p>
+<form>
+     <div>
+        <label asp-for="Student.LasName"></label>
+        <input type="text" asp-for="Student.LasName">
+    </div>
+    <div>
+        <label asp-for="Student.FirstMidName"></label>
+        <input type="text" asp-for="Student.FirstMidName">
+    </div>
+    <div>
+        <label asp-for="Student.EnrollmentDate"></label>
+        <input type="text" asp-for="Student.EnrollmentDate">
+    </div>
+    <div>
+        <input type="submit" value="crear">
+    </div>
+</form>
