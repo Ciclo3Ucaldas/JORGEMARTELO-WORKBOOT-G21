@@ -1,12 +1,15 @@
 using ContosoUniversity.Persistencia.Data;
+using ContosoUniversity.Persistencia.Repositorios;
 using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+//builder.Services.AddScoped<IRepositorioCliente, RepositorioCliente>();
+ 
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<SchoolContext>(options =>
   options.UseSqlServer(builder.Configuration.GetConnectionString("SchoolContext")));
-
+builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 // agregado opcional para los errores de la base de datos
 //builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 

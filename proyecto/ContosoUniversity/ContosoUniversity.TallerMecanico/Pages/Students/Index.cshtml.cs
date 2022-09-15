@@ -10,15 +10,21 @@ namespace MyApp.Namespace
 {
     public class IndexModel : PageModel
     {
-        private readonly IStudentRepository repositorio;
+        private readonly IStudentRepository _repositorio;
         public IEnumerable<Student> students { get; set; }
         public IndexModel(IStudentRepository repository)
         {
-            this.repositorio = repository;
+            this._repositorio = repository;
         }
         public void OnGet()
         {
-            students.repositorio.GetStudents();
+            students = _repositorio.GetStudents();
+            foreach (var studiantes in students)
+            {
+                Console.WriteLine("Agregando datos"+studiantes.LasName);                
+            }
+                Console.WriteLine("Agregando datos");
+                Console.WriteLine("Agregando datos");
         }
     }
 }
